@@ -8,7 +8,7 @@ I am a Business Intelligence and Data Analyst with a background in Business Admi
 - Power BI
 
 ## My Projects Section
-- Financial Analysis Project  (...)
+- [Financial Analysis Project](https://github.com/YawGyimah1/Financial-Analysis-Project)
 
 ## Currently Learning
 Python for Data analysis
