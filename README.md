@@ -14,4 +14,6 @@ I am a Business Intelligence and Data Analyst with a background in Business Admi
 Python for Data analysis
 
 ## Lets Connect!
-LinkedIn (...)
+- LinkedIn (https://www.linkedin.com/in/yawowusu-gyimah/)
+- Email (nanayawowusugyimah@gmail.com)
+  
