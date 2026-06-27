@@ -1,6 +1,6 @@
 # Hi, I am Yaw
 
-I am a Business Intelligence and Data Analyst with a background in Business Administration - building projects in Excel, SQL and Power BI.
+I am a Business Intelligence and Data Analyst with a background in Business Administration - building projects in Excel, SQL and Power BI for business growth.
 
 ## Tools I work with
 - Microsoft Excel
