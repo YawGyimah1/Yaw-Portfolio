@@ -10,6 +10,7 @@ I am a Business Intelligence and Data Analyst with a background in Business Admi
 ## My Projects Section
 - [Financial Analysis Project Dashboard](https://github.com/YawGyimah1/Financial-Analysis-Project)
 - [Sales Performance Analysis Dashboard](https://github.com/YawGyimah1/Sales-Performance-Analysis)
+- [Employee Database-Queries](https://github.com/YawGyimah1/Employees-Database-Management/blob/main/README.md)
 
 ## Currently Learning
 Python for Data analysis
